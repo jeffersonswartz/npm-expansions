@@ -405,6 +405,7 @@ Nocturnal Parakeet Monitor
 Nocturnal Practitioners of Magic
 Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
+Node Pac Man
 Node Package Maid
 Node Package Manager
 Node Package Master
